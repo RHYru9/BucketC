@@ -1,9 +1,9 @@
 ## Usage
 
-To use BucketSnatch, run the following command in your terminal:
+run the following command in your terminal:
 
 ```bash
-python3 scr.py -u 'target url' -f /folder -b mov mp4 jpg jpeg png
+python3 Xg.py -u 'target url' -f /folder -b mov mp4 jpg jpeg png
 ```
 
 ### Parameters:
@@ -15,7 +15,7 @@ python3 scr.py -u 'target url' -f /folder -b mov mp4 jpg jpeg png
 ### Example:
 
 ```bash
-python3 scr.py -u 'http://example.domain' -f /path/to/save/folder -b mov mp4 jpg jpeg png
+python3 Xg.py -u 'http://example.domain' -f /path/to/save/folder -b mov mp4 jpg jpeg png
 ```
 
 This command will:
