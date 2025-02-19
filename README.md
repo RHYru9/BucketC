@@ -1,3 +1,5 @@
+This Python tool extracts and downloads files from an XML-indexed bucket, commonly used by cloud storage services like Amazon S3, DigitalOcean Spaces, or similar CDNs
+
 ## Usage
 
 run the following command in your terminal:
