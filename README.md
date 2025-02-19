@@ -2,6 +2,10 @@
 
 run the following command in your terminal:
 
+```python
+pip install lxml
+```
+
 ```bash
 python3 Xg.py -u 'target url' -f /folder -b mov mp4 jpg jpeg png
 ```
